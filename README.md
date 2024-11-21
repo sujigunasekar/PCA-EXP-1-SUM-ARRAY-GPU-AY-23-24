@@ -2,7 +2,7 @@
 <h3>ENTER YOUR NAME: Suji G </h3> 
 <h3>ENTER YOUR REGISTER NO: 212222230152</h3> 
 <h3>EX. NO : 1</h3>
-<h3>DATE: 22-10-2024</h3>
+<h3>DATE: </h3>
 <h1> <align=center> SUM ARRAY ON HOST AND DEVICE </h3>
 PCA-GPU-based-vector-summation.-Explore-the-differences.
   
